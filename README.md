@@ -1,2 +1,16 @@
-# useful-python-scripts
-A group of useful python scripts
+# About
+It is a group of **useful python scripts** for DevOps engineers, System administrators, and developers.
+
+# How
+Each directory has a different purpose and scripts are not related to each other.
+Find a useful one from this readme file then use it.
+
+# List
++ upload-backup-to-arvan-bucket
+
+### upload-backup-to-arvan-bucket
+Easily upload a file to an Arvan cloud bucket using script.py script.
+
+```
+python script.py FULL_FILE_PATH FILE_NAME
+```
