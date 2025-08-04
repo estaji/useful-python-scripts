@@ -7,7 +7,7 @@ Find a useful one from this readme file then use it.
 
 # List
 + upload-backup-to-S3-bucket
-+ get-report-from-MInIO
++ get-report-from-MinIO
 
 ### upload-backup-to-S3-bucket
 Easily upload a file to an S3 bucket like Arvan cloud bucket using script.py script.
@@ -16,7 +16,7 @@ Easily upload a file to an S3 bucket like Arvan cloud bucket using script.py scr
 python script.py FULL_FILE_PATH FILE_NAME
 ```
 
-### get-report-from-MInIO
+### get-report-from-MinIO
 This is a group of readily scripts to get report and search in a MinIO cluster.
 
 Includes:
